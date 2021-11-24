@@ -1,4 +1,4 @@
-#Lista de tarefas com React e Typescript
+# Lista de tarefas com React e Typescript
 
 ![lista de tarefas](https://cdn.discordapp.com/attachments/882176931552968716/912860046218625035/unknown.png)
 
